@@ -1,0 +1,20 @@
+" Show line numbers
+set number
+
+" Status bar
+set laststatus=2
+
+" Automatically wrap text that extens futhre than the screen length
+set wrap
+
+" Set the syntax on
+syntax on
+
+" Allow for the mouse to be used
+set mouse=a
+
+" Add a terminal to execute command when vim opens
+below terminal
+
+" Resize the terminal to make smaller
+resize -10
