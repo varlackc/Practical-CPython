@@ -1,0 +1,3 @@
+[submodule "Chapter02/cpython"]
+	path = Chapter02/cpython
+	url = https://github.com/python/cpython.git
